@@ -2,7 +2,7 @@
 Library     SeleniumLibrary
 
 *** Variables ***
-${TEAM_HEADER_LABEL} =    css=#team > div > div:nth-child(1) > div >
+${TEAM_HEADER_LABEL} =    css=#team > div > div:nth-child(1) > div 
 
 *** Keywords ***
 
